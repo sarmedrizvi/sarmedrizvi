@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/sarmed-rizvi-20b3a2157/) [upwork](https://www.upwork.com/freelancers/sarmed)
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/sarmed-rizvi-20b3a2157/) [Upwork](https://www.upwork.com/freelancers/sarmed)
 
