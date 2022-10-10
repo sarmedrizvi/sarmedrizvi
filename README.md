@@ -9,7 +9,7 @@ A Full Stack <b>React and Nodejs Developer</b> and eagerly snatching up whatever
 
 - 🔭 I’m currently working as a Fulltime freelancer @ <a href='https://upwork.com/'>Upwork</a>
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding project ideas & contributions in Django.
+- 🤔 I’m looking for help with Outstanding project ideas & contributions in MERN AND WEB3.
 - 📫 How to reach me: sarmedrizvi@gmail.com
 - ⚡ Fun fact: I can code for more than 12 hours continuously.
 
