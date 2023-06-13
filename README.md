@@ -1,5 +1,5 @@
 
-## Hi I'm Sarmed Rizvi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Sarmed Rizvi a FullStack developer <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 A Full Stack <b>ReactJS NextJS VueJS NuxtJS NodeJS ExpressJS Laravel Django</b> Developer and eagerly snatching up whatever programming languages, frameworks, or concepts I can incorporate into the mental coding web I've created.
 
