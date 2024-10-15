@@ -5,12 +5,11 @@ A Full Stack <b>ReactJS NextJS VueJS NuxtJS NodeJS ExpressJS Laravel Django</b> 
 
 :mailbox: Reach me out!
 
-[![Freelancer Badge](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/sarmed)](https://www.upwork.com/freelancers/sarmed) [![Linkedin Badge](https://img.shields.io/badge/-@sarmedrizvi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarmedrizvi/) [![Mail Badge](https://img.shields.io/badge/-sarmedrizvi@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sarmedrizvi@gmail.com)
+[![Freelancer Badge](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/sarmed)](https://www.upwork.com/freelancers/sarmed)
 
 - 🔭 I’m currently working as a Fulltime freelancer @ <a href='https://upwork.com/'>Upwork</a>
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding project ideas & contributions in MERN AND WEB3.
-- 📫 How to reach me: sarmedrizvi@gmail.com
 - ⚡ Fun fact: I can code for more than 12 hours continuously.
 
 ## ⚡ Technologies
